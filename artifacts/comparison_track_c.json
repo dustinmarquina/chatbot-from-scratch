@@ -1,0 +1,32 @@
+[
+  {
+    "prompt": "Hello, how are you today?",
+    "track_a_reply": "Very good, just got out of another fight. Hope you are doing well.",
+    "track_c_reply": "Hello , I'm just looking for a haircut .",
+    "note": ""
+  },
+  {
+    "prompt": "What do you like about machine learning?",
+    "track_a_reply": "The fact that it's a way of life",
+    "track_c_reply": "I like machine learning .",
+    "note": ""
+  },
+  {
+    "prompt": "Tell me a short joke.",
+    "track_a_reply": "Your mom!",
+    "track_c_reply": "What \u2019 s it ?",
+    "note": ""
+  },
+  {
+    "prompt": "How can I stay productive while studying?",
+    "track_a_reply": "I wouldn't know. I don't use it.",
+    "track_c_reply": "I have a working week , but I can't work overtime .",
+    "note": ""
+  },
+  {
+    "prompt": "Explain attention in one sentence.",
+    "track_a_reply": "Says the guy that never has a conversation.",
+    "track_c_reply": "I will let you know when your words are coming to your mind .",
+    "note": ""
+  }
+]

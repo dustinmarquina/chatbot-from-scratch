@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Hello, how are you today?",
+    "track_a_reply": "Placeholder response. Run src.track_a to refresh this artifact."
+  },
+  {
+    "prompt": "Explain attention in one sentence.",
+    "track_a_reply": "Placeholder response. Replace with real DialoGPT output after dependencies are installed."
+  }
+]

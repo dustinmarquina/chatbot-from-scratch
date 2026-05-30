@@ -1,0 +1,8 @@
+torch==2.12.0
+transformers==4.57.1
+datasets==4.3.0
+sentencepiece==0.2.1
+jupyter==1.1.1
+matplotlib==3.10.7
+seaborn==0.13.2
+pytest==9.0.1
